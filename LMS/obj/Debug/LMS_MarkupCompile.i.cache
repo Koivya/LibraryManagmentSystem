@@ -9,12 +9,12 @@ LMS
 none
 false
 DEBUG;TRACE
-C:\Users\k0val\source\repos\LMS\LMS\View\App.xaml
-1871162140
+C:\Users\k0val\source\repos\LMS\LMS\App.xaml
+7-438230338
 
-15-129369753
-13-38814620
-View\MainWindow.xaml;
+221718783412
+16-200521901
+AuthorizationPage.xaml;BookIssuancePage.xaml;BookManagmentPage.xaml;BookReturnPage.xaml;MainPage.xaml;MainWindow.xaml;ReaderManagmentPage.xaml;
 
 True
 
