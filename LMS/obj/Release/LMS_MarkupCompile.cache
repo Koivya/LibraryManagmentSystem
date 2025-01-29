@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\k0val\source\repos\LMS\LMS\obj\Release\
+C:\Users\k0val\source\repos\LibraryManagmentSystem\LMS\obj\Release\
 LMS
 none
 false
 TRACE
-C:\Users\k0val\source\repos\LMS\LMS\View\App.xaml
-1871162140
+C:\Users\k0val\source\repos\LibraryManagmentSystem\LMS\App.xaml
+7-438230338
 
-14-2051147874
-13-38814620
-View\MainWindow.xaml;
+21-545103558
+161223546567
+AuthorizationPage.xaml;BookIssuancePage.xaml;BookManagmentPage.xaml;BookReturnPage.xaml;MainPage.xaml;MainWindow.xaml;ReaderManagmentPage.xaml;
 
 True
 
